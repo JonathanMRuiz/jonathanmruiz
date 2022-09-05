@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonathan Ruiz</h1>
+
 <h3 align="center">Frontend Developer .I'm from Argentina Buenos Aires. Am 26 years old.</h3>
+
+I am a Junior Frontend Developer familiar with wide range of programming utilities and languages. 
+Knowledgeable of backend and frontend development requirements.
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"  /></p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
