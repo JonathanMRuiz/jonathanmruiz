@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Ruiz</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Matias Ruiz</h1>
 
 <h3 align="center">Frontend Developer .I'm from Argentina Buenos Aires. Am 26 years old.</h3>
 
